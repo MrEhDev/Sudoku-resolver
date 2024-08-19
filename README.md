@@ -37,12 +37,13 @@ python "Sudoku Resolver.py"
 
 
 ### Captura de Pantalla 📸
-![](<Images 1-1.png>)
+![Images 1](https://github.com/user-attachments/assets/b21fec82-cc1b-4608-9cf8-b15141a32d7e)
+![Images 2](https://github.com/user-attachments/assets/a0ac8149-13dc-4646-aa3c-ef343e8203d7)
+
 ![](<Images 2-1.png>)
 ---
 ### Contribuciones 🤝
 Las contribuciones son bienvenidas. Si tienes alguna mejora o corrección, siéntete libre de hacer un fork y enviar un pull request.
-
 
 ### Autor ✒️
 ---
